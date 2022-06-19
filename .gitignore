@@ -3,6 +3,7 @@
 .env.production
 .env.development
 
+# graphql
 schema.gql
 graphql.ts
 
