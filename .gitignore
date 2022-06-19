@@ -3,6 +3,10 @@
 .env.production
 .env.development
 
+# graphql
+schema.gql
+graphql.ts
+
 # compiled output
 /dist
 /node_modules
